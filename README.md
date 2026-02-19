@@ -1,3 +1,8 @@
+[![Status: Seeking Sponsors](https://img.shields.io/badge/Status-Seeking%20Sponsors-blue)]()
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary%20%26%20Closed%20Source-red)]()
+[![TRON: Mainnet Ready](https://img.shields.io/badge/TRON-Mainnet%20Ready-green)]()
+[![Last Updated: Feb 19, 2026](https://img.shields.io/badge/Last%20Updated-Feb%2019%202026-lightblue)]()
+
 # ASAC Quantum Research Division
 
 ## [PROPRIETARY & CLOSED SOURCE]
